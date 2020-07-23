@@ -1,0 +1,6 @@
+a = "coconut" < "paintball"
+b = "Spring" in "Springfield"
+c = "Me" in "Awesome"
+d = "f" > "z"
+e = "Ni!" < "Ekki-ekki-ekki-pitang-zoom-boing!"
+f = "eels" in "My hovercraft is full of eels"
